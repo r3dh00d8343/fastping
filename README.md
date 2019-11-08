@@ -1,0 +1,2 @@
+# fastping
+Ping utility
